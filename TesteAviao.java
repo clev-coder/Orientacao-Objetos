@@ -3,7 +3,7 @@ package java.com;
 public class TesteAviao {
 
 	public static void main(String[] args) {
-   aviao a1 = new aviao();
+      aviao a1 = new aviao();
 		
 		a1.setMarca("Gol");
 		a1.setModelo("A360");
@@ -16,7 +16,6 @@ public class TesteAviao {
 		
 
 	}
-
 
 
 	}
